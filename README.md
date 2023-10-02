@@ -35,8 +35,12 @@ bash
 streamlit run main.py
  
 1-A window will open in your browser with the application interface.
+
 2-Enter the English text you want to translate in the text entry field.
+
 3-Select the target language from the drop-down menu.
+
 4-Click the "Translate" button to perform the translation.
+
 5-The translated text will be displayed on the screen.
 
