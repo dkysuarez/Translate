@@ -20,7 +20,7 @@ This is a simple program that uses Hugging Face's transformers library to transl
     python3 -m venv myenv
     source myenv/bin/activate
 
-Instala las bibliotecas requeridas:
+Install the required libraries:
 
 (bash)
 
@@ -28,7 +28,7 @@ Instala las bibliotecas requeridas:
 
 Use
 
-   Ejecute el programa:
+   Run the program:
 
 bash
 
