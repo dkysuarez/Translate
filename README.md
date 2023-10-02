@@ -17,8 +17,8 @@ This is a simple program that uses Hugging Face's transformers library to transl
 
 (bash)
 
-python3 -m venv myenv
-source myenv/bin/activate
+    python3 -m venv myenv
+    source myenv/bin/activate
 
 Instala las bibliotecas requeridas:
 
